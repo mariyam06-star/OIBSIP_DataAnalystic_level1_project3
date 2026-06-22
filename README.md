@@ -48,15 +48,8 @@ Improved dataset accuracy and consistency.
 Removed duplicate and irrelevant records.
 Handled missing values effectively.
 Created a clean dataset ready for analysis and machine learning.
-📁 Project Structure
-Data-Cleaning-Project/
-│
-├── Data_Cleaning.ipynb
-├── dataset.csv
-├── README.md
-└── requirements.txt
-👩‍💻 Author
 
+👩‍💻 Author
 Mariyam Sidat
 
 Passionate about Data Analytics, Data Cleaning, and Machine Learning, transforming raw data into valuable insights.
